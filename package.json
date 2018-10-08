@@ -1,0 +1,23 @@
+{
+  "name": "node_listpe",
+  "version": "1.0.0",
+  "description": "Lista de tareas pendientes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maceuge/node_listpe.git"
+  },
+  "author": "Eugenio Vr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maceuge/node_listpe/issues"
+  },
+  "homepage": "https://github.com/maceuge/node_listpe#readme",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "yargs": "^12.0.2"
+  }
+}
